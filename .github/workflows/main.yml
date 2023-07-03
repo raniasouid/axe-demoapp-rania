@@ -23,5 +23,5 @@ jobs:
     - name: Push to docker hub :latest
       uses: actions-hub/docker@master
       with:
-       args: ranias/axe-demoapp:v1.1.0
+       args: push ranias/axe-demoapp:v1.1.0
  

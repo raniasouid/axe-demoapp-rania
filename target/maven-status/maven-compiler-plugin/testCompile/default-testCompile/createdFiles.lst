@@ -1,0 +1,4 @@
+com/axefinance/demoapp/test/IntegrationTest.class
+com/axefinance/demoapp/test/HelloWorldIntegrationTest.class
+com/axefinance/demoapp/test/HelloWorldResourceTest.class
+com/axefinance/demoapp/test/HelloWorldEndpointTest.class

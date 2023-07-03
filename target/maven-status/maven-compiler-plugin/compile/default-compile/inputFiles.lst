@@ -1,0 +1,5 @@
+/root/axe-demoapp/src/main/java/com/axefinance/demoapp/HelloWorldApplication.java
+/root/axe-demoapp/src/main/java/com/axefinance/demoapp/resources/HelloWorldResource.java
+/root/axe-demoapp/src/main/java/com/axefinance/demoapp/api/Saying.java
+/root/axe-demoapp/src/main/java/com/axefinance/demoapp/HelloWorldConfiguration.java
+/root/axe-demoapp/src/main/java/com/axefinance/demoapp/health/TemplateHealthCheck.java

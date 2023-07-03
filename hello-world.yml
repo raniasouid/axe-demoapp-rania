@@ -1,0 +1,4 @@
+template: Hello, %s!
+defaultName: M2I Formation!
+server: 
+  rootPath: /api/

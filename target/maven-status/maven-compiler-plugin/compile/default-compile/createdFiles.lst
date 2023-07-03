@@ -1,0 +1,5 @@
+com/axefinance/demoapp/health/TemplateHealthCheck.class
+com/axefinance/demoapp/api/Saying.class
+com/axefinance/demoapp/HelloWorldApplication.class
+com/axefinance/demoapp/HelloWorldConfiguration.class
+com/axefinance/demoapp/resources/HelloWorldResource.class
